@@ -46,7 +46,7 @@
     </div>
         <div id="Parham" align="center">
     <figure class="Image">
-        <img src="https://via.placeholder.com/405x310?text=Parham" alt="Reshma" height="310" width="405" style="transition: 1s">
+        <img src="https://via.placeholder.com/405x310?text=Parham" alt="Parham" height="310" width="405" style="transition: 1s">
         <figcaption>Hover to enlarge image</figcaption>
     </figure>
     <h3>Name:</h3>
