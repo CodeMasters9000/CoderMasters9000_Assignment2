@@ -40,8 +40,8 @@
         <img src="https://via.placeholder.com/405x310?text=Reshma" alt="Reshma" height="310" width="405" style="transition: 1s">
         <figcaption>Hover to enlarge image</figcaption>
     </figure>
-    <h3>Name:</h3>
-    <h4>Age:</h4>
+    <h3>Name: Parham</h3>
+    <h4>Age: 20</h4>
     <h4>Description:</h4>
     </div>
         <div id="Parham" align="center">
