@@ -3,7 +3,7 @@
 <title>CoderMasters9000</title>
 <style>
 .Image:hover img {
-  transform: scale(1.5);
+  transform: scale(1.5) rotate(360deg);;
   border: 5px solid black;
 }
 </style>
